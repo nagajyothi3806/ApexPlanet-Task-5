@@ -1,0 +1,18 @@
+LearnSpace_E_Learning_Portal/
+  admin/              Admin analytics, course management, one-time admin setup
+  api/                AJAX course search endpoint
+  assets/css/         Responsive styling
+  assets/js/          Live search/filter interactions
+  config/             App and database configuration
+  database/           MySQL schema and ER diagram
+  docs/               Wireframes, report, presentation script
+  includes/           PDO database connection, shared header/footer, helpers
+  uploads/            Placeholder directory
+  index.php            Landing page
+  courses.php          AJAX course catalogue
+  course.php           Course detail and enrolment
+  register.php         Registration and OTP generation
+  verify.php           Email OTP verification
+  login.php             Authentication
+  dashboard.php         Student enrolments and progress
+  README.md             Setup and deployment instructions
